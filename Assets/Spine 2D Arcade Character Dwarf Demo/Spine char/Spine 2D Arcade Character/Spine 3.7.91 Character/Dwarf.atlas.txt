@@ -1,0 +1,307 @@
+
+Dwarf.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 272, 626
+  size: 38, 150
+  orig: 38, 150
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 312, 627
+  size: 38, 150
+  orig: 49, 150
+  offset: 1, 0
+  index: -1
+Auge_L
+  rotate: true
+  xy: 136, 96
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+Auge_R
+  rotate: true
+  xy: 122, 254
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+Augen_Br_L_U
+  rotate: true
+  xy: 352, 601
+  size: 75, 98
+  orig: 79, 99
+  offset: 2, 0
+  index: -1
+Augenbr_R_U
+  rotate: false
+  xy: 438, 796
+  size: 114, 109
+  orig: 115, 110
+  offset: 0, 0
+  index: -1
+Augenlid_L
+  rotate: false
+  xy: 153, 32
+  size: 43, 62
+  orig: 44, 63
+  offset: 1, 0
+  index: -1
+Augenlid_R
+  rotate: false
+  xy: 440, 710
+  size: 98, 84
+  orig: 103, 89
+  offset: 3, 3
+  index: -1
+Augenweiss_L
+  rotate: false
+  xy: 270, 399
+  size: 46, 60
+  orig: 47, 64
+  offset: 0, 1
+  index: -1
+Augenweiss_R
+  rotate: false
+  xy: 613, 820
+  size: 80, 75
+  orig: 84, 80
+  offset: 2, 0
+  index: -1
+Bein_L
+  rotate: true
+  xy: 819, 969
+  size: 52, 184
+  orig: 53, 184
+  offset: 1, 0
+  index: -1
+Bein_R
+  rotate: false
+  xy: 150, 355
+  size: 69, 182
+  orig: 70, 182
+  offset: 1, 0
+  index: -1
+Blink.png
+  rotate: false
+  xy: 2, 778
+  size: 279, 243
+  orig: 285, 243
+  offset: 6, 0
+  index: -1
+Flinte
+  rotate: true
+  xy: 217, 573
+  size: 203, 53
+  orig: 203, 53
+  offset: 0, 0
+  index: -1
+Flinte Shoot
+  rotate: false
+  xy: 614, 968
+  size: 203, 53
+  orig: 203, 53
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 614, 917
+  size: 194, 49
+  orig: 194, 49
+  offset: 0, 0
+  index: -1
+Gun_Hand_R
+  rotate: true
+  xy: 554, 798
+  size: 107, 57
+  orig: 107, 57
+  offset: 0, 0
+  index: -1
+Gurt_3 4_Back_L
+  rotate: true
+  xy: 614, 897
+  size: 18, 110
+  orig: 18, 110
+  offset: 0, 0
+  index: -1
+Gurt_3 4_Back_R
+  rotate: false
+  xy: 509, 588
+  size: 40, 120
+  orig: 41, 127
+  offset: 0, 7
+  index: -1
+Gurtel
+  rotate: false
+  xy: 726, 897
+  size: 63, 18
+  orig: 63, 18
+  offset: 0, 0
+  index: -1
+Hand_L_Close
+  rotate: true
+  xy: 659, 797
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Hand_L_Open
+  rotate: false
+  xy: 272, 576
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Hand_R_Close
+  rotate: true
+  xy: 153, 2
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Hand_R_Open
+  rotate: false
+  xy: 733, 843
+  size: 39, 52
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+Hose
+  rotate: true
+  xy: 136, 148
+  size: 104, 73
+  orig: 104, 73
+  offset: 0, 0
+  index: -1
+Kiefer
+  rotate: false
+  xy: 431, 907
+  size: 181, 114
+  orig: 186, 123
+  offset: 1, 0
+  index: -1
+Kirka
+  rotate: false
+  xy: 283, 869
+  size: 146, 152
+  orig: 146, 152
+  offset: 0, 0
+  index: -1
+Kopf
+  rotate: false
+  xy: 2, 539
+  size: 213, 237
+  orig: 213, 237
+  offset: 0, 0
+  index: -1
+Kragen
+  rotate: false
+  xy: 613, 799
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+Mouth 2
+  rotate: true
+  xy: 452, 602
+  size: 106, 55
+  orig: 112, 59
+  offset: 2, 3
+  index: -1
+Mouth 3
+  rotate: true
+  xy: 270, 461
+  size: 110, 45
+  orig: 114, 47
+  offset: 4, 1
+  index: -1
+Mouth 4
+  rotate: true
+  xy: 695, 829
+  size: 66, 36
+  orig: 67, 37
+  offset: 1, 1
+  index: -1
+Mund1
+  rotate: false
+  xy: 2, 12
+  size: 149, 65
+  orig: 153, 66
+  offset: 2, 0
+  index: -1
+Nase
+  rotate: false
+  xy: 352, 678
+  size: 86, 99
+  orig: 97, 105
+  offset: 8, 5
+  index: -1
+Ohr_R
+  rotate: true
+  xy: 221, 359
+  size: 38, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+Pickaxe
+  rotate: false
+  xy: 2, 385
+  size: 146, 152
+  orig: 146, 152
+  offset: 0, 0
+  index: -1
+Pipelle_L
+  rotate: false
+  xy: 122, 355
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+Pippele_R
+  rotate: false
+  xy: 317, 591
+  size: 33, 34
+  orig: 34, 34
+  offset: 1, 0
+  index: -1
+Stock
+  rotate: false
+  xy: 221, 399
+  size: 47, 172
+  orig: 53, 173
+  offset: 1, 0
+  index: -1
+T-Shert
+  rotate: true
+  xy: 283, 779
+  size: 88, 153
+  orig: 94, 153
+  offset: 2, 0
+  index: -1
+Tasche_3 4_Back
+  rotate: true
+  xy: 2, 79
+  size: 139, 132
+  orig: 139, 132
+  offset: 0, 0
+  index: -1
+Unternase
+  rotate: false
+  xy: 136, 79
+  size: 14, 15
+  orig: 19, 18
+  offset: 4, 1
+  index: -1
+Weste
+  rotate: false
+  xy: 2, 220
+  size: 118, 163
+  orig: 125, 163
+  offset: 7, 0
+  index: -1

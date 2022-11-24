@@ -1,0 +1,1363 @@
+
+Dwarf.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dwarf-1DieBack_00
+  rotate: true
+  xy: 496, 387
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 24
+  index: -1
+Dwarf-1DieBack_01
+  rotate: true
+  xy: 1781, 1119
+  size: 120, 244
+  orig: 429, 305
+  offset: 113, 30
+  index: -1
+Dwarf-1DieBack_02
+  rotate: true
+  xy: 993, 1365
+  size: 117, 235
+  orig: 429, 305
+  offset: 115, 37
+  index: -1
+Dwarf-1DieBack_08
+  rotate: false
+  xy: 1245, 1242
+  size: 257, 119
+  orig: 429, 305
+  offset: 2, 0
+  index: -1
+Dwarf-1DieBack_09
+  rotate: false
+  xy: 1744, 1481
+  size: 257, 116
+  orig: 429, 305
+  offset: 2, 0
+  index: -1
+Dwarf-1DieBack_10
+  rotate: false
+  xy: 734, 1369
+  size: 257, 116
+  orig: 429, 305
+  offset: 2, 0
+  index: -1
+Dwarf-1DieBack_11
+  rotate: false
+  xy: 1230, 1365
+  size: 257, 117
+  orig: 429, 305
+  offset: 2, 0
+  index: -1
+Dwarf-1DieBack_12
+  rotate: false
+  xy: 1504, 1241
+  size: 257, 119
+  orig: 429, 305
+  offset: 2, 0
+  index: -1
+Dwarf-1DieBack_13
+  rotate: false
+  xy: 1763, 1241
+  size: 256, 119
+  orig: 429, 305
+  offset: 2, 0
+  index: -1
+Dwarf-1DieBack_14
+  rotate: false
+  xy: 2, 1134
+  size: 256, 119
+  orig: 429, 305
+  offset: 2, 0
+  index: -1
+Dwarf-1DieBack_15
+  rotate: false
+  xy: 2, 1134
+  size: 256, 119
+  orig: 429, 305
+  offset: 2, 0
+  index: -1
+Dwarf-1DieBack_16
+  rotate: false
+  xy: 260, 1130
+  size: 255, 119
+  orig: 429, 305
+  offset: 2, 0
+  index: -1
+Dwarf-1DieForward_00
+  rotate: true
+  xy: 1518, 1714
+  size: 112, 253
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1DieForward_01
+  rotate: true
+  xy: 493, 1833
+  size: 107, 248
+  orig: 429, 305
+  offset: 123, 23
+  index: -1
+Dwarf-1DieForward_02
+  rotate: true
+  xy: 2, 1837
+  size: 104, 243
+  orig: 429, 305
+  offset: 128, 22
+  index: -1
+Dwarf-1DieForward_03
+  rotate: true
+  xy: 946, 1941
+  size: 102, 238
+  orig: 429, 305
+  offset: 131, 21
+  index: -1
+Dwarf-1DieForward_04
+  rotate: true
+  xy: 485, 1942
+  size: 101, 233
+  orig: 429, 305
+  offset: 135, 20
+  index: -1
+Dwarf-1DieForward_05
+  rotate: true
+  xy: 2, 1943
+  size: 100, 228
+  orig: 429, 305
+  offset: 144, 20
+  index: -1
+Dwarf-1DieForward_06
+  rotate: true
+  xy: 720, 1942
+  size: 101, 224
+  orig: 429, 305
+  offset: 165, 20
+  index: -1
+Dwarf-1DieForward_07
+  rotate: true
+  xy: 2, 1257
+  size: 118, 219
+  orig: 429, 305
+  offset: 171, 21
+  index: -1
+Dwarf-1DieForward_13
+  rotate: false
+  xy: 1000, 1484
+  size: 250, 115
+  orig: 429, 305
+  offset: 172, 17
+  index: -1
+Dwarf-1DieForward_14
+  rotate: false
+  xy: 1186, 1941
+  size: 254, 102
+  orig: 429, 305
+  offset: 173, 12
+  index: -1
+Dwarf-1DieForward_15
+  rotate: false
+  xy: 1186, 1941
+  size: 254, 102
+  orig: 429, 305
+  offset: 173, 12
+  index: -1
+Dwarf-1DieForward_16
+  rotate: false
+  xy: 1186, 1941
+  size: 254, 102
+  orig: 429, 305
+  offset: 173, 12
+  index: -1
+Dwarf-1FallDown_00
+  rotate: true
+  xy: 1740, 1362
+  size: 117, 261
+  orig: 429, 305
+  offset: 111, 25
+  index: -1
+Dwarf-1FallDown_11
+  rotate: true
+  xy: 1740, 1362
+  size: 117, 261
+  orig: 429, 305
+  offset: 111, 25
+  index: -1
+Dwarf-1FallDown_01
+  rotate: true
+  xy: 517, 1128
+  size: 119, 260
+  orig: 429, 305
+  offset: 111, 26
+  index: -1
+Dwarf-1FallDown_02
+  rotate: true
+  xy: 510, 1006
+  size: 120, 260
+  orig: 429, 305
+  offset: 111, 26
+  index: -1
+Dwarf-1FallDown_03
+  rotate: true
+  xy: 1518, 627
+  size: 122, 261
+  orig: 429, 305
+  offset: 111, 25
+  index: -1
+Dwarf-1FallDown_04
+  rotate: true
+  xy: 1512, 378
+  size: 123, 260
+  orig: 429, 305
+  offset: 111, 26
+  index: -1
+Dwarf-1FallDown_05
+  rotate: true
+  xy: 1780, 2
+  size: 124, 261
+  orig: 429, 305
+  offset: 111, 25
+  index: -1
+Dwarf-1FallDown_07
+  rotate: true
+  xy: 1774, 378
+  size: 123, 261
+  orig: 429, 305
+  offset: 111, 25
+  index: -1
+Dwarf-1FallDown_08
+  rotate: true
+  xy: 510, 883
+  size: 121, 260
+  orig: 429, 305
+  offset: 111, 26
+  index: -1
+Dwarf-1FallDown_09
+  rotate: true
+  xy: 1280, 998
+  size: 120, 260
+  orig: 429, 305
+  offset: 111, 26
+  index: -1
+Dwarf-1FallDown_10
+  rotate: true
+  xy: 730, 1249
+  size: 118, 261
+  orig: 429, 305
+  offset: 111, 25
+  index: -1
+Dwarf-1HitBack_00
+  rotate: true
+  xy: 2, 1012
+  size: 120, 252
+  orig: 429, 305
+  offset: 111, 24
+  index: -1
+Dwarf-1HitBack_14
+  rotate: true
+  xy: 2, 1012
+  size: 120, 252
+  orig: 429, 305
+  offset: 111, 24
+  index: -1
+Dwarf-1HitBack_01
+  rotate: true
+  xy: 508, 1719
+  size: 111, 252
+  orig: 429, 305
+  offset: 110, 25
+  index: -1
+Dwarf-1HitBack_02
+  rotate: true
+  xy: 1442, 1940
+  size: 103, 252
+  orig: 429, 305
+  offset: 107, 26
+  index: -1
+Dwarf-1HitBack_03
+  rotate: true
+  xy: 232, 1943
+  size: 100, 251
+  orig: 429, 305
+  offset: 98, 27
+  index: -1
+Dwarf-1HitBack_04
+  rotate: true
+  xy: 1696, 1940
+  size: 103, 249
+  orig: 429, 305
+  offset: 90, 29
+  index: -1
+Dwarf-1HitBack_05
+  rotate: true
+  xy: 2, 1377
+  size: 116, 238
+  orig: 429, 305
+  offset: 76, 36
+  index: -1
+Dwarf-1HitBack_06
+  rotate: true
+  xy: 247, 1836
+  size: 104, 244
+  orig: 429, 305
+  offset: 91, 34
+  index: -1
+Dwarf-1HitBack_07
+  rotate: true
+  xy: 743, 1832
+  size: 107, 250
+  orig: 429, 305
+  offset: 117, 28
+  index: -1
+Dwarf-1HitBack_08
+  rotate: true
+  xy: 754, 1603
+  size: 113, 248
+  orig: 429, 305
+  offset: 131, 27
+  index: -1
+Dwarf-1HitBack_09
+  rotate: true
+  xy: 1252, 1484
+  size: 115, 247
+  orig: 429, 305
+  offset: 127, 27
+  index: -1
+Dwarf-1HitBack_10
+  rotate: true
+  xy: 1489, 1363
+  size: 117, 249
+  orig: 429, 305
+  offset: 123, 26
+  index: -1
+Dwarf-1HitBack_11
+  rotate: true
+  xy: 993, 1245
+  size: 118, 250
+  orig: 429, 305
+  offset: 119, 25
+  index: -1
+Dwarf-1HitBack_12
+  rotate: true
+  xy: 779, 1124
+  size: 119, 251
+  orig: 429, 305
+  offset: 116, 25
+  index: -1
+Dwarf-1HitBack_13
+  rotate: true
+  xy: 256, 1008
+  size: 120, 252
+  orig: 429, 305
+  offset: 112, 24
+  index: -1
+Dwarf-1HitFront_00
+  rotate: true
+  xy: 750, 383
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 24
+  index: -1
+Dwarf-1HitFront_11
+  rotate: true
+  xy: 750, 383
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 24
+  index: -1
+Dwarf-1Idle_00
+  rotate: true
+  xy: 1004, 380
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_54
+  rotate: true
+  xy: 1004, 380
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_01
+  rotate: true
+  xy: 1258, 379
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_02
+  rotate: true
+  xy: 242, 265
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_03
+  rotate: true
+  xy: 496, 262
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_04
+  rotate: true
+  xy: 750, 258
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_05
+  rotate: true
+  xy: 502, 636
+  size: 122, 252
+  orig: 429, 305
+  offset: 112, 23
+  index: -1
+Dwarf-1Idle_06
+  rotate: true
+  xy: 756, 632
+  size: 122, 252
+  orig: 429, 305
+  offset: 112, 23
+  index: -1
+Dwarf-1Idle_07
+  rotate: true
+  xy: 1010, 629
+  size: 122, 252
+  orig: 429, 305
+  offset: 112, 23
+  index: -1
+Dwarf-1Idle_08
+  rotate: true
+  xy: 1264, 628
+  size: 122, 252
+  orig: 429, 305
+  offset: 112, 23
+  index: -1
+Dwarf-1Idle_09
+  rotate: true
+  xy: 256, 885
+  size: 121, 252
+  orig: 429, 305
+  offset: 113, 23
+  index: -1
+Dwarf-1Idle_10
+  rotate: true
+  xy: 772, 879
+  size: 121, 252
+  orig: 429, 305
+  offset: 113, 23
+  index: -1
+Dwarf-1Idle_11
+  rotate: true
+  xy: 1781, 627
+  size: 122, 252
+  orig: 429, 305
+  offset: 113, 23
+  index: -1
+Dwarf-1Idle_12
+  rotate: true
+  xy: 1026, 876
+  size: 121, 252
+  orig: 429, 305
+  offset: 114, 23
+  index: -1
+Dwarf-1Idle_13
+  rotate: true
+  xy: 1280, 875
+  size: 121, 252
+  orig: 429, 305
+  offset: 114, 23
+  index: -1
+Dwarf-1Idle_14
+  rotate: true
+  xy: 1534, 874
+  size: 121, 252
+  orig: 429, 305
+  offset: 114, 23
+  index: -1
+Dwarf-1Idle_15
+  rotate: true
+  xy: 772, 1002
+  size: 120, 252
+  orig: 429, 305
+  offset: 115, 23
+  index: -1
+Dwarf-1Idle_16
+  rotate: true
+  xy: 1788, 874
+  size: 121, 252
+  orig: 429, 305
+  offset: 115, 23
+  index: -1
+Dwarf-1Idle_17
+  rotate: true
+  xy: 2, 767
+  size: 121, 252
+  orig: 429, 305
+  offset: 115, 23
+  index: -1
+Dwarf-1Idle_18
+  rotate: true
+  xy: 1026, 999
+  size: 120, 252
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1Idle_19
+  rotate: true
+  xy: 1542, 997
+  size: 120, 252
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1Idle_20
+  rotate: true
+  xy: 256, 762
+  size: 121, 252
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1Idle_21
+  rotate: true
+  xy: 510, 760
+  size: 121, 252
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1Idle_22
+  rotate: true
+  xy: 2, 890
+  size: 120, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_23
+  rotate: true
+  xy: 764, 756
+  size: 121, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_24
+  rotate: true
+  xy: 1018, 753
+  size: 121, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_25
+  rotate: true
+  xy: 1272, 752
+  size: 121, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_26
+  rotate: true
+  xy: 1526, 751
+  size: 121, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_27
+  rotate: true
+  xy: 2, 520
+  size: 122, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_28
+  rotate: true
+  xy: 499, 512
+  size: 122, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_29
+  rotate: true
+  xy: 753, 508
+  size: 122, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_30
+  rotate: true
+  xy: 1780, 751
+  size: 121, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_31
+  rotate: true
+  xy: 2, 644
+  size: 121, 252
+  orig: 429, 305
+  offset: 117, 23
+  index: -1
+Dwarf-1Idle_32
+  rotate: true
+  xy: 1007, 505
+  size: 122, 252
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1Idle_33
+  rotate: true
+  xy: 1261, 504
+  size: 122, 252
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1Idle_34
+  rotate: true
+  xy: 1515, 503
+  size: 122, 252
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1Idle_35
+  rotate: true
+  xy: 1004, 255
+  size: 123, 252
+  orig: 429, 305
+  offset: 115, 23
+  index: -1
+Dwarf-1Idle_36
+  rotate: true
+  xy: 1769, 503
+  size: 122, 252
+  orig: 429, 305
+  offset: 115, 23
+  index: -1
+Dwarf-1Idle_37
+  rotate: true
+  xy: 1258, 254
+  size: 123, 252
+  orig: 429, 305
+  offset: 114, 23
+  index: -1
+Dwarf-1Idle_38
+  rotate: true
+  xy: 1512, 253
+  size: 123, 252
+  orig: 429, 305
+  offset: 114, 23
+  index: -1
+Dwarf-1Idle_39
+  rotate: true
+  xy: 1766, 253
+  size: 123, 252
+  orig: 429, 305
+  offset: 114, 23
+  index: -1
+Dwarf-1Idle_40
+  rotate: true
+  xy: 2, 140
+  size: 123, 252
+  orig: 429, 305
+  offset: 113, 23
+  index: -1
+Dwarf-1Idle_41
+  rotate: true
+  xy: 256, 137
+  size: 123, 252
+  orig: 429, 305
+  offset: 113, 23
+  index: -1
+Dwarf-1Idle_42
+  rotate: true
+  xy: 510, 133
+  size: 123, 252
+  orig: 429, 305
+  offset: 113, 23
+  index: -1
+Dwarf-1Idle_43
+  rotate: true
+  xy: 764, 130
+  size: 123, 252
+  orig: 429, 305
+  offset: 113, 23
+  index: -1
+Dwarf-1Idle_44
+  rotate: true
+  xy: 1018, 129
+  size: 123, 252
+  orig: 429, 305
+  offset: 112, 23
+  index: -1
+Dwarf-1Idle_45
+  rotate: true
+  xy: 1272, 128
+  size: 123, 252
+  orig: 429, 305
+  offset: 112, 23
+  index: -1
+Dwarf-1Idle_46
+  rotate: true
+  xy: 1526, 128
+  size: 123, 252
+  orig: 429, 305
+  offset: 112, 23
+  index: -1
+Dwarf-1Idle_47
+  rotate: true
+  xy: 1780, 128
+  size: 123, 252
+  orig: 429, 305
+  offset: 112, 23
+  index: -1
+Dwarf-1Idle_48
+  rotate: true
+  xy: 2, 15
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_49
+  rotate: true
+  xy: 256, 12
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_50
+  rotate: true
+  xy: 510, 8
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_51
+  rotate: true
+  xy: 764, 5
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_52
+  rotate: true
+  xy: 1018, 4
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Idle_53
+  rotate: true
+  xy: 1272, 3
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 23
+  index: -1
+Dwarf-1Jump_00
+  rotate: true
+  xy: 1526, 3
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 24
+  index: -1
+Dwarf-1Landing_14
+  rotate: true
+  xy: 1526, 3
+  size: 123, 252
+  orig: 429, 305
+  offset: 111, 24
+  index: -1
+Dwarf-1Jump_10
+  rotate: true
+  xy: 223, 1255
+  size: 117, 261
+  orig: 429, 305
+  offset: 111, 25
+  index: -1
+Dwarf-1Landing_00
+  rotate: true
+  xy: 223, 1255
+  size: 117, 261
+  orig: 429, 305
+  offset: 111, 25
+  index: -1
+Dwarf-1Run_00
+  rotate: true
+  xy: 1032, 1121
+  size: 119, 247
+  orig: 429, 305
+  offset: 121, 24
+  index: -1
+Dwarf-1Run_17
+  rotate: true
+  xy: 1032, 1121
+  size: 119, 247
+  orig: 429, 305
+  offset: 121, 24
+  index: -1
+Dwarf-1Run_01
+  rotate: true
+  xy: 2, 396
+  size: 122, 245
+  orig: 429, 305
+  offset: 122, 24
+  index: -1
+Dwarf-1Run_06
+  rotate: true
+  xy: 2, 268
+  size: 126, 238
+  orig: 429, 305
+  offset: 105, 38
+  index: -1
+Dwarf-1Run_07
+  rotate: true
+  xy: 256, 515
+  size: 122, 241
+  orig: 429, 305
+  offset: 112, 33
+  index: -1
+Dwarf-1Run_08
+  rotate: true
+  xy: 256, 639
+  size: 121, 244
+  orig: 429, 305
+  offset: 118, 28
+  index: -1
+Dwarf-1Run_09
+  rotate: true
+  xy: 249, 390
+  size: 123, 245
+  orig: 429, 305
+  offset: 121, 25
+  index: -1
+Dwarf-1Run_10
+  rotate: true
+  xy: 1796, 997
+  size: 120, 244
+  orig: 429, 305
+  offset: 125, 25
+  index: -1
+Dwarf-1Run_11
+  rotate: true
+  xy: 1281, 1120
+  size: 119, 250
+  orig: 429, 305
+  offset: 124, 26
+  index: -1
+Dwarf-1Run_12
+  rotate: true
+  xy: 242, 1374
+  size: 116, 250
+  orig: 429, 305
+  offset: 123, 27
+  index: -1
+Dwarf-1Run_13
+  rotate: true
+  xy: 1501, 1482
+  size: 115, 241
+  orig: 429, 305
+  offset: 121, 36
+  index: -1
+Dwarf-1Run_14
+  rotate: true
+  xy: 494, 1371
+  size: 116, 238
+  orig: 429, 305
+  offset: 120, 38
+  index: -1
+Dwarf-1Run_15
+  rotate: true
+  xy: 486, 1251
+  size: 118, 242
+  orig: 429, 305
+  offset: 120, 32
+  index: -1
+Dwarf-1Run_16
+  rotate: true
+  xy: 1533, 1120
+  size: 119, 246
+  orig: 429, 305
+  offset: 121, 26
+  index: -1
+Dwarf-1Walk_00
+  rotate: true
+  xy: 500, 1489
+  size: 114, 248
+  orig: 429, 305
+  offset: 120, 23
+  index: -1
+Dwarf-1Walk_01
+  rotate: true
+  xy: 1773, 1714
+  size: 112, 249
+  orig: 429, 305
+  offset: 121, 23
+  index: -1
+Dwarf-1Walk_02
+  rotate: true
+  xy: 1004, 1601
+  size: 113, 248
+  orig: 429, 305
+  offset: 120, 24
+  index: -1
+Dwarf-1Walk_03
+  rotate: true
+  xy: 2, 1610
+  size: 112, 248
+  orig: 429, 305
+  offset: 121, 25
+  index: -1
+Dwarf-1Walk_04
+  rotate: true
+  xy: 762, 1718
+  size: 111, 250
+  orig: 429, 305
+  offset: 122, 25
+  index: -1
+Dwarf-1Walk_05
+  rotate: true
+  xy: 1250, 1829
+  size: 109, 251
+  orig: 429, 305
+  offset: 123, 25
+  index: -1
+Dwarf-1Walk_06
+  rotate: true
+  xy: 995, 1831
+  size: 108, 253
+  orig: 429, 305
+  offset: 123, 24
+  index: -1
+Dwarf-1Walk_07
+  rotate: true
+  xy: 1503, 1829
+  size: 109, 252
+  orig: 429, 305
+  offset: 122, 24
+  index: -1
+Dwarf-1Walk_08
+  rotate: true
+  xy: 1757, 1828
+  size: 110, 250
+  orig: 429, 305
+  offset: 121, 25
+  index: -1
+Dwarf-1Walk_09
+  rotate: true
+  xy: 1254, 1601
+  size: 113, 248
+  orig: 429, 305
+  offset: 119, 25
+  index: -1
+Dwarf-1Walk_10
+  rotate: true
+  xy: 1504, 1599
+  size: 113, 247
+  orig: 429, 305
+  offset: 119, 25
+  index: -1
+Dwarf-1Walk_11
+  rotate: true
+  xy: 1753, 1599
+  size: 113, 246
+  orig: 429, 305
+  offset: 118, 25
+  index: -1
+Dwarf-1Walk_12
+  rotate: true
+  xy: 2, 1495
+  size: 113, 247
+  orig: 429, 305
+  offset: 119, 25
+  index: -1
+Dwarf-1Walk_13
+  rotate: true
+  xy: 251, 1492
+  size: 113, 247
+  orig: 429, 305
+  offset: 119, 25
+  index: -1
+Dwarf-1Walk_14
+  rotate: true
+  xy: 252, 1607
+  size: 112, 248
+  orig: 429, 305
+  offset: 121, 25
+  index: -1
+Dwarf-1Walk_15
+  rotate: true
+  xy: 2, 1724
+  size: 110, 250
+  orig: 429, 305
+  offset: 122, 25
+  index: -1
+Dwarf-1Walk_16
+  rotate: true
+  xy: 254, 1721
+  size: 110, 252
+  orig: 429, 305
+  offset: 122, 25
+  index: -1
+Dwarf-1Walk_17
+  rotate: true
+  xy: 1014, 1716
+  size: 111, 252
+  orig: 429, 305
+  offset: 122, 25
+  index: -1
+Dwarf-1Walk_18
+  rotate: true
+  xy: 502, 1605
+  size: 112, 250
+  orig: 429, 305
+  offset: 121, 25
+  index: -1
+Dwarf-1Walk_19
+  rotate: true
+  xy: 1268, 1716
+  size: 111, 248
+  orig: 429, 305
+  offset: 121, 25
+  index: -1
+Dwarf-1Walk_20
+  rotate: true
+  xy: 750, 1487
+  size: 114, 248
+  orig: 429, 305
+  offset: 120, 23
+  index: -1
+
+Dwarf2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dwarf-1DieBack_03
+  rotate: true
+  xy: 432, 1232
+  size: 155, 220
+  orig: 429, 305
+  offset: 86, 45
+  index: -1
+Dwarf-1DieBack_04
+  rotate: true
+  xy: 634, 1407
+  size: 167, 200
+  orig: 429, 305
+  offset: 72, 53
+  index: -1
+Dwarf-1DieBack_05
+  rotate: false
+  xy: 432, 1389
+  size: 200, 185
+  orig: 429, 305
+  offset: 51, 55
+  index: -1
+Dwarf-1DieBack_06
+  rotate: true
+  xy: 290, 1612
+  size: 220, 165
+  orig: 429, 305
+  offset: 29, 48
+  index: -1
+Dwarf-1DieBack_07
+  rotate: true
+  xy: 130, 610
+  size: 239, 139
+  orig: 429, 305
+  offset: 10, 31
+  index: -1
+Dwarf-1DieForward_08
+  rotate: true
+  xy: 418, 1090
+  size: 140, 213
+  orig: 429, 305
+  offset: 171, 21
+  index: -1
+Dwarf-1DieForward_09
+  rotate: true
+  xy: 654, 1241
+  size: 164, 204
+  orig: 429, 305
+  offset: 171, 20
+  index: -1
+Dwarf-1DieForward_10
+  rotate: false
+  xy: 425, 895
+  size: 186, 193
+  orig: 429, 305
+  offset: 171, 19
+  index: -1
+Dwarf-1DieForward_11
+  rotate: false
+  xy: 2, 1806
+  size: 221, 174
+  orig: 429, 305
+  offset: 171, 18
+  index: -1
+Dwarf-1DieForward_12
+  rotate: true
+  xy: 2, 1564
+  size: 240, 147
+  orig: 429, 305
+  offset: 171, 17
+  index: -1
+Dwarf-1FallDown_06
+  rotate: false
+  xy: 2, 1302
+  size: 124, 260
+  orig: 429, 305
+  offset: 111, 26
+  index: -1
+Dwarf-1HitFront_01
+  rotate: true
+  xy: 468, 1844
+  size: 136, 248
+  orig: 429, 305
+  offset: 115, 26
+  index: -1
+Dwarf-1HitFront_02
+  rotate: true
+  xy: 225, 1834
+  size: 146, 241
+  orig: 429, 305
+  offset: 120, 28
+  index: -1
+Dwarf-1HitFront_03
+  rotate: false
+  xy: 128, 1326
+  size: 154, 232
+  orig: 429, 305
+  offset: 125, 30
+  index: -1
+Dwarf-1HitFront_04
+  rotate: false
+  xy: 271, 626
+  size: 157, 223
+  orig: 429, 305
+  offset: 132, 31
+  index: -1
+Dwarf-1HitFront_05
+  rotate: true
+  xy: 718, 1688
+  size: 157, 214
+  orig: 429, 305
+  offset: 137, 33
+  index: -1
+Dwarf-1HitFront_06
+  rotate: true
+  xy: 1676, 1546
+  size: 155, 215
+  orig: 429, 305
+  offset: 137, 31
+  index: -1
+Dwarf-1HitFront_07
+  rotate: true
+  xy: 971, 1696
+  size: 151, 213
+  orig: 429, 305
+  offset: 138, 32
+  index: -1
+Dwarf-1HitFront_08
+  rotate: true
+  xy: 273, 27
+  size: 149, 212
+  orig: 429, 305
+  offset: 138, 32
+  index: -1
+Dwarf-1HitFront_09
+  rotate: false
+  xy: 277, 855
+  size: 146, 230
+  orig: 429, 305
+  offset: 126, 30
+  index: -1
+Dwarf-1HitFront_10
+  rotate: true
+  xy: 1736, 1846
+  size: 134, 246
+  orig: 429, 305
+  offset: 117, 26
+  index: -1
+Dwarf-1Jump_01
+  rotate: false
+  xy: 2, 296
+  size: 137, 245
+  orig: 429, 305
+  offset: 113, 23
+  index: -1
+Dwarf-1Jump_02
+  rotate: false
+  xy: 128, 851
+  size: 147, 234
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1Jump_03
+  rotate: false
+  xy: 273, 178
+  size: 154, 222
+  orig: 429, 305
+  offset: 119, 23
+  index: -1
+Dwarf-1Jump_04
+  rotate: false
+  xy: 271, 402
+  size: 155, 222
+  orig: 429, 305
+  offset: 118, 24
+  index: -1
+Dwarf-1Jump_05
+  rotate: true
+  xy: 1224, 1703
+  size: 150, 230
+  orig: 429, 305
+  offset: 117, 24
+  index: -1
+Dwarf-1Jump_06
+  rotate: false
+  xy: 128, 1087
+  size: 145, 237
+  orig: 429, 305
+  offset: 116, 24
+  index: -1
+Dwarf-1Jump_07
+  rotate: false
+  xy: 2, 50
+  size: 140, 244
+  orig: 429, 305
+  offset: 114, 24
+  index: -1
+Dwarf-1Jump_08
+  rotate: true
+  xy: 718, 1847
+  size: 133, 251
+  orig: 429, 305
+  offset: 113, 24
+  index: -1
+Dwarf-1Jump_09
+  rotate: true
+  xy: 1224, 1855
+  size: 125, 256
+  orig: 429, 305
+  offset: 112, 25
+  index: -1
+Dwarf-1Landing_01
+  rotate: false
+  xy: 2, 1044
+  size: 124, 256
+  orig: 429, 305
+  offset: 112, 25
+  index: -1
+Dwarf-1Landing_02
+  rotate: true
+  xy: 971, 1849
+  size: 131, 251
+  orig: 429, 305
+  offset: 113, 24
+  index: -1
+Dwarf-1Landing_03
+  rotate: false
+  xy: 151, 1560
+  size: 137, 244
+  orig: 429, 305
+  offset: 114, 24
+  index: -1
+Dwarf-1Landing_04
+  rotate: false
+  xy: 275, 1087
+  size: 141, 237
+  orig: 429, 305
+  offset: 116, 24
+  index: -1
+Dwarf-1Landing_05
+  rotate: true
+  xy: 1456, 1708
+  size: 145, 230
+  orig: 429, 305
+  offset: 117, 24
+  index: -1
+Dwarf-1Landing_06
+  rotate: false
+  xy: 430, 671
+  size: 150, 222
+  orig: 429, 305
+  offset: 118, 24
+  index: -1
+Dwarf-1Landing_07
+  rotate: true
+  xy: 1456, 1555
+  size: 151, 218
+  orig: 429, 305
+  offset: 120, 23
+  index: -1
+Dwarf-1Landing_08
+  rotate: false
+  xy: 582, 673
+  size: 149, 220
+  orig: 429, 305
+  offset: 120, 23
+  index: -1
+Dwarf-1Landing_09
+  rotate: false
+  xy: 284, 1335
+  size: 146, 223
+  orig: 429, 305
+  offset: 120, 23
+  index: -1
+Dwarf-1Landing_10
+  rotate: true
+  xy: 1688, 1703
+  size: 141, 230
+  orig: 429, 305
+  offset: 118, 23
+  index: -1
+Dwarf-1Landing_11
+  rotate: true
+  xy: 468, 1708
+  size: 134, 238
+  orig: 429, 305
+  offset: 116, 23
+  index: -1
+Dwarf-1Landing_12
+  rotate: false
+  xy: 141, 363
+  size: 128, 245
+  orig: 429, 305
+  offset: 114, 23
+  index: -1
+Dwarf-1Landing_13
+  rotate: false
+  xy: 2, 791
+  size: 124, 251
+  orig: 429, 305
+  offset: 112, 23
+  index: -1
+Dwarf-1Run_02
+  rotate: false
+  xy: 2, 543
+  size: 126, 246
+  orig: 429, 305
+  offset: 123, 25
+  index: -1
+Dwarf-1Run_03
+  rotate: true
+  xy: 1482, 1855
+  size: 125, 252
+  orig: 429, 305
+  offset: 124, 24
+  index: -1
+Dwarf-1Run_04
+  rotate: false
+  xy: 144, 118
+  size: 127, 243
+  orig: 429, 305
+  offset: 115, 35
+  index: -1
+Dwarf-1Run_05
+  rotate: true
+  xy: 457, 1576
+  size: 130, 236
+  orig: 429, 305
+  offset: 104, 41
+  index: -1
